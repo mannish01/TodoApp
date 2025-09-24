@@ -1,5 +1,4 @@
-# grocerystoreapp
-
+# You can find all the code in the lib folder
 A new Flutter project.
 
 ## Getting Started
